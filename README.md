@@ -6,10 +6,9 @@
 Bem-vindo(a). Este é o desafio Front-End!
 
 O objetivo deste desafio é avaliar suas habilidades em desenvolvimento Web.
-Quando sua solução estiver pronta, basta responder o e-mail que recebeu, com o link do seu repositório aqui no Github!
+Quando sua solução estiver pronta, basta enviar o link do seu repositório aqui no Github!
 Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 
-Caso tenha alguma dúvida, nós estamos disponíveis no e-mail *frontend@wine.com.br* .
 Bom desafio!
 
 > ⚠️ **É importante que o seu repositório esteja público, caso contrário não iremos conseguir avaliar sua resposta.**
